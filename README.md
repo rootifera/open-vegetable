@@ -1,4 +1,4 @@
-# DevOps Assessment Homework xx
+# DevOps Assessment Homework
 
 This is xxxxx's assessment homework for DevOps candidates. Please read
 this document thoroughly and don't hesitate to contact us to devops@xxxxx.com if you have any
